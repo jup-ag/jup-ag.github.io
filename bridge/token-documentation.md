@@ -7,8 +7,8 @@ Document tokens we support for bridge comparator.
 | Token Symbol                               | Token Address |
 | ------------------------------------------ | ------------- |
 | 0x0000000000000000000000000000000000000000 | ETH           |
-| 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | ETH           |
-| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | WETH          |
+| 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 | WETH          |
+| 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48 | USDC          |
 | 0xdac17f958d2ee523a2206206994597c13d831ec7 | USDT          |
 | 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599 | wbtc          |
 | 0x9be89d2a4cd102d8fecc6bf9da793be995c22541 | bbtc          |
