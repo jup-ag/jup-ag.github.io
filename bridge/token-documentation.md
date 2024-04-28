@@ -67,9 +67,9 @@ Document tokens we support for bridge comparator.
 | -------------------------------------------- | ------------- |
 | EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v | USDC          |
 | So11111111111111111111111111111111111111112  | SOL           |
-| Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB |               |
-| mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So  |               |
-| zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF  |               |
-| 7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj |               |
-| HxRELUQfvvjToVbacjr9YECdfQMUqGgPYB68jVDYxkbr |               |
-| RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a  |               |
+| Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB | USDT          |
+| mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So  | mSOL          |
+| RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a  | RLB           |
+| 6DNSN2BJsaPFdFFc1zP37kkeNe4Usc1Sqkzr9C9vPWcU | tBTC          |
+| 3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh | WBTC          |
+| 7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs | WETH          |
