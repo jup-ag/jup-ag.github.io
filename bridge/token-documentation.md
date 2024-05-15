@@ -61,6 +61,14 @@ Document tokens we support for bridge comparator.
 | 0x50b7545627a5162f82a992c33b87adc75187b218 | wbtc.e        |
 | 0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab | weth.e        |
 
+## NEAR Mainnet -> 397
+
+| Token Symbol                                 | Token Address |
+| -------------------------------------------- | ------------- |
+| BYPsjxa3YuZESQz1dKuBw1QSFCSpecsm8nCQhY5xbU1Z | NEAR          |
+| GNCjk3FmPPgZTkbQRSxr6nCvLtYMbXKMnRxg8BgJs62e | CELO          |
+| EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e | Wrapped CUSD  |
+
 ## Solana -> solana
 
 | Token Symbol                                 | Token Address |
